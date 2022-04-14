@@ -1,0 +1,19 @@
+#dev{
+    height: 350px;
+    width: 300px;
+    border-radius: 50%;
+}
+#gif{
+    border-radius: 50%
+}
+
+
+#td{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 30px;
+}
+
+table{
+    padding-top: 100px;
+}
